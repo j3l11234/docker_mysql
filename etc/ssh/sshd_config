@@ -116,7 +116,7 @@ X11Forwarding yes
 UsePrivilegeSeparation no
 #PermitUserEnvironment no
 #Compression delayed
-ClientAliveInterval 0
+ClientAliveInterval 10
 ClientAliveCountMax 3
 #ShowPatchLevel no
 UseDNS no
